@@ -1,0 +1,10 @@
+
+public class ChromeDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\gciurescu\\Downloads\\repos\\personal\\Selenium\\Sal Course\\Resources\\driver_v1\\chromedriver.exe");
+	}
+
+}
